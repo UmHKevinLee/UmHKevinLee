@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Younghoon Lee @UmHKevinLee
-- 👀 I’m interested in Software Engineering / Data Analysis 
+- 👀 I’m interested in Software Engineering (Entry Level) / Data Analysis (Entry Level)
 - 🌱 I’m currently learning Data Science / Game Development
 - 📫  How to reach me: 
      E-mail : barthoon92@gmail.com
